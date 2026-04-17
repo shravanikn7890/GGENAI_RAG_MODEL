@@ -147,4 +147,18 @@ if prompt_input := st.chat_input("Ask a question about your documents..."):
         })
 
     else:
-        st.warning("Please process your documen
+        st.warning("Please process your documents before asking questions.")
+
+
+                
+
+                
+
+
+
+
+        
+
+               
+           
+       
